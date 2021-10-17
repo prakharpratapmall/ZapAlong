@@ -8,7 +8,7 @@ This game was made in about a week entirely from scratch except for the sound ef
 Visit my itch [page](https://thetufguy.itch.io/zap1) to play the game in browser.
 Play Instructions:
 
-W/A/S/D or Arrow Keys to control your character.
-Space to dash/move quickly.
-Zap enemies between the link made between the players.
-Avoid getting into direct contact with enemies.
+ - W/A/S/D or Arrow Keys to control your character. 
+ - Space to dash/move quickly.
+ - Zap enemies between the link made between the players. 
+ - Avoid getting into direct contact with enemies.
